@@ -1,14 +1,14 @@
 	{
 	"name": "rainbow_beacons",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"title": "Rainbow Beacon Overhaul",
 	"author": "Kabury",
 	"contact": "",
 	"homepage": "",
 	"dependencies": [
-		"base >= 2.0",
+		"base >= 2.1",
 		"? pypostprocessing"
 	],
 	"description": "Beacon overhaul. These beacons are designed to encourage more build variety!",
-	"factorio_version": "2.0"
+	"factorio_version": "2.1"
 }
